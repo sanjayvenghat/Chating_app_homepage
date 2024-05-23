@@ -10,7 +10,7 @@
 {
     width: 100%;
     min-height: 100vh;
-    background-image: url("/socially_img/back-image.png");
+    background-image: url("back-image.png");
     background-position: center;
     background-size: cover;
     overflow: hidden;
